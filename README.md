@@ -15,3 +15,5 @@ Eclipse & JUnit/TestNG Import-Ready Maven Project Build
 ## Execution Rules
 - Run via Maven Build Interface Terminal: `mvn clean test`
 - Execution Report path layout mapping: `target/ExtentReports/SparkReport.html`
+
+Base URL: https://www.saucedemo.com
