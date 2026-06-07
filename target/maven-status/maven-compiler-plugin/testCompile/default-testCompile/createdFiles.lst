@@ -1,0 +1,4 @@
+com\automation\pages\DashboardPage.class
+com\automation\pages\LoginPage.class
+com\automation\runner\TestRunner.class
+com\automation\steps\AutomationStepDefinitions.class
